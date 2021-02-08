@@ -1,0 +1,52 @@
+.box1 img{
+
+   height: 310px;
+   display:inline-block;
+   width: 450px;
+   float: left;
+
+}
+
+.box2{
+  position: absolute;
+   background-color:aqua;
+   display:inline-block;
+   float: left;
+   height: 350px;
+   width: 300px;
+   padding-top:40px;
+   padding-left: 40px;
+   margin-left: 10px;
+   font-style: italic;
+   border: 3px double black;
+
+}
+
+.box3{
+
+   position: absolute;
+   background-color: black;
+   color: white;
+   width: 425px;
+   display: inline-block;
+   top:250px;
+   left: 8px;
+   margin-top: 80px;
+   border: 4px double white;
+   padding-left: 20px;
+}
+
+.form-class{
+
+    margin-top: 110px;
+    width: 100px;
+    height: 30px;
+}
+
+.form-class:hover{
+
+   border-radius: 15px;
+   background-color:black;
+   color: white;
+
+}
